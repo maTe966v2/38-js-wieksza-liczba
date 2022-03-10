@@ -9,4 +9,4 @@ function higherNumber(a, b) {
     }
 }
 
-higherNumber(num1, num2);
+console.log(higherNumber(num1, num2));
